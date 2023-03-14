@@ -1,0 +1,18 @@
+.left {
+    display: inline-block;
+}
+.right {
+    display: inline-block;
+}
+.item {
+    width: 45%;
+    height: 450px;
+}
+#besh{
+    width: 25px;
+}
+.itemm{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
